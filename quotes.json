@@ -1,0 +1,6907 @@
+[
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "Hi, honey."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Hi, Mom."
+    },
+    {
+        "person": "Mother",
+        "type": "action",
+        "text": "*kisses his forehead*"
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "You feeling any better?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "A little bit."
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "Guess what."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "Grandfather's here."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Mom, can't you tell him I'm sick?"
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "You're sick?"
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "That's why he's here."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "He'll pinch my cheek."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I hate that."
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "Maybe he won't."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Hey, how is the sickie?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Huh?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*pinches his cheek*"
+    },
+    {
+        "person": "Mother",
+        "type": "speech",
+        "text": "I think I'll leave you two pals alone."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*holds out a present*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I brought you a special present."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What is it?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*hands it to Grandson*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Open it up."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "A book?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "That's right."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "When I was your age, television was called books."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "And this is a special book."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*grabs the book*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "It was the book my father used to read to me when I was sick, and I used to read it to your father."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Today, I'm going to read it to you."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Does it got any sports in it?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Are you kidding?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, miracles."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "That doesn't sound too bad."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I'll try and stay awake."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Thank you very much."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "That's very nice of you."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*sets down his hat*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Your vote of confidence is overwhelming."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*opens the book*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "All right."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*puts on glasses and starts reading*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"The Princess Bride by S."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Morgenstern."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Chapter One."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Buttercup was raised on a small farm in the country of Florin."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Her favorite pastimes were riding her horse and tormenting the farm boy that worked there."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "His name was Westley, but she never called him that.\" Isn't that a wonderful beginning?"
+    },
+    {
+        "person": "Grandson",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Yeah, it's really good."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Nothing gave Buttercup as much pleasure as ordering Westley around.\""
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Farm boy, polish my horse's saddle."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I want to see my face shining in it by morning."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "As you wish."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"As you wish\" was all he ever said to her."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Farm boy, fill these with water."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Please."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "As you wish."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "That day she was amazed to discover that when he was saying, \"As you wish\", what he meant was, \"I love you.\""
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Even more amazing was the day she realized… she truly loved him back."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Farm boy."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Fetch me that pitcher."
+    },
+    {
+        "person": "Westley",
+        "type": "action",
+        "text": "*grabs the pitcher*"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "As you wish."
+    },
+    {
+        "person": "Grandson",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Hold it, hold it."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What is this?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Are you trying to trick me?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "And where's the sports?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Is this a kissing book?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Wait."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Just wait."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "When does it get good?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Keep your shirt on and let me read."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*resumes reading*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Westley had no money for marriage, so he packed his few belongings and left the farm to seek his fortune across the sea.\""
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "It was a very emotional time for Buttercup."
+    },
+    {
+        "person": "Grandson",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I don't believe this!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I fear I'll never see you again."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Of course, you will."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "What if something happens to you?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Hear this now... I will always come for you."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "But how can you be sure?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "This is true love."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Do you think this happens every day?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Westley didn't reach his destination."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "His ship was attacked by the Dread Pirate Roberts… who never left captives alive."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "When Buttercup got the news that Westley was murdered…\""
+    },
+    {
+        "person": "Grandson",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Murdered by pirates is good!"
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"She went into her room and shut the door, and for days, she neither slept nor ate.\""
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I will never love again."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Five years later, the main square of Florin City was filled as never before to hear the announcement of the great Prince Humperdinck's bride-to-be.\""
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "My people, a month from now, our country will have its 500th anniversary."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "On that sundown, I shall marry a lady who was once a commoner like yourselves, but perhaps you will not find her common now."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Would you like to meet her?"
+    },
+    {
+        "person": "Citizens",
+        "type": "speech",
+        "text": "Yes!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "My people, the princess Buttercup!"
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Buttercup's emptiness consumed her."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Although the law of the land gave Humperdinck the right to choose his bride, she did not love him."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Despite Humperdinck's reassurance that she would grow to love him, the only joy she found was in her daily ride.\""
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "A word, my lady?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "We are but poor, lost circus performers."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Is there a village nearby?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "There is nothing nearby, not for miles."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Then there will be no one to hear you scream."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "What is that you're ripping?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "It's fabric from the uniform of an army officer of Guilder."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Who's Guilder?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "The country across the sea, the sworn enemy of Florin."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*to the horse*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Go!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*the horse goes off; as he boards the ship*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Once the horse reaches the castle, the fabric will make the prince suspect that the Guilderians have abducted his love."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "When he finds her body dead on the Guilder frontier, his suspicions will be totally confirmed."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You never said anything about killing anyone."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I've hired you to help me start a war."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "It's a prestigious line of work with a long and glorious tradition."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I just don't think it's right, killing an innocent girl."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Am I going mad, or did the word \"think\" escape your lips?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You were not hired for your brains, you hippopotamic land mass!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I agree with Fezzik."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Oh, the sot has spoken!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "What happens to her is not truly your concern; I will kill her!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "And remember this, never forget this... When I found you, you were so slobbering drunk… you couldn't buy brandy!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*to Fezzik*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "And you… friendless, brainless… helpless, hopeless!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Do you want me to send you back to where you were… unemployed in Greenland?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "That Vizzini, he can... fuss."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Fuss, fuss... I think he like to scream… at us."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Probably he means no... harm."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "He's really very short on… charm."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You have a great gift for rhyme."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Yes, yes, some of the time."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*offscreen; annoyed*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Enough of that!"
+    },
+    {
+        "person": "Inigo",
+        "type": "action",
+        "text": "*offscreen*"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Fezzik, are there rocks ahead?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "action",
+        "text": "*offscreen*"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "If there are, we'll all be dead."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*offscreen; annoyed*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "No more rhymes, now."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I mean it!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "action",
+        "text": "*offscreen*"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Anybody want a peanut?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "We'll reach the cliffs by dawn."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*sees Inigo staring behind the ship*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Why are you doing that?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Making sure nobody's following us."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "That would be inconceivable."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Despite what you think, you will be caught, and when you are, the prince will see you all hanged."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Of all the necks on this boat, Highness, the one you should be worrying about is your own."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*sees Inigo still staring out*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Stop doing that!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "We can all relax."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "It's almost over."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You are sure nobody's following us?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "As I told you, it would be absolutely, totally, and in all other ways inconceivable!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "No one in Guilder knows what we've done, and no one in Florin could have gotten here so fast."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Out of curiosity, why do you ask?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I happened to look behind us, and something is there."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Probably some local fisherman out for a pleasure cruise at night through eel-infested waters."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Go in!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Get after her!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I don't swim."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I only dog-paddle."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*screams in exasperation*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Veer left!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Left!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Left!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Do you know what that sound is, Highness?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Those are the shrieking eels."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "If you don't believe me, just wait."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "They always grow louder… when they're about to feed on human flesh."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "If you swim back now, I promise no harm will come to you."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I doubt you'll get such an offer from the eels."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "She doesn't get eaten by the eels at this time."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "The eel doesn't get her."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I'm explaining to you because you look nervous."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I wasn't nervous."
+    },
+    {
+        "person": "Grandson",
+        "type": "action",
+        "text": "*Grandfather looks at him with doubt*"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Maybe I was a little bit concerned, but that's not the same thing."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Because we can stop now if you want."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "No."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "You could read a little bit more, if you want."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*reads as Vizzini*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Do you know what that sound is, Highness?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Those are the shrieking eels.\""
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "We're past that, Grandpa."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "You read it already."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "My goodness, I did."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I'm sorry."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Beg your pardon."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "All right, all right."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Let's see."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "She was in the water, the eel was coming after her… she was frightened… the eel started to charge her, and then..."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Put her down."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Just put her down!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I think he's getting closer."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "He's no concern of ours."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Sail on!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*to Buttercup*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I suppose you think you're brave, don't you?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Only compared to some."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Look!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He's right on top of us!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I wonder if he's using the same wind we are using."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Whoever he is, he's too late."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "See?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "The Cliffs of Insanity!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Hurry up!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Move the thing!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "And that other thing!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Move it!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "We're safe."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Only Fezzik is strong enough to go up our way."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "He'll have to sail for hours till he finds a harbor."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He's climbing the rope, and he's gaining on us!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Inconceivable...! Faster!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I thought I was going faster?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You were supposed to be this colossus… you were this great legendary thing… and yet he gains!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I'm carrying three people, and he got only himself."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I do not accept excuses."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I have to find a new giant."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Don't say that, Vizzini, please."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Did I make it clear that your job is at stake?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "He's got very good arms."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "He didn't fall?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Inconceivable!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You keep using that word."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I do not think it means what you think it means."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My God, he's climbing."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Whoever he is, he's obviously seen us with the princess and must therefore die."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You carry her."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "We'll head straight for the Guilder frontier."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Catch up when he's dead."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "If he falls, fine."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "If not, the sword."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I'm going to duel him left-handed."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You know what a hurry we're in."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "It's the only way I can be satisfied."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "If I use my right, tsk!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Over too quickly."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*reluctantly*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Oh, have it your way!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You be careful."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "People in masks cannot be trusted."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I'm waiting!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Hello there!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Slow going?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I don't mean to be rude, but this is not as easy as it looks."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I'd appreciate it if you wouldn't distract me."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Sorry."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Thank you."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I do not suppose you could speed things up?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "If you're in such a hurry, you could lower a rope or a tree branch or find something useful to do."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I could do that."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I got some rope up here, but I do not think you would accept my help since I am only waiting around to kill you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "That does put a damper on our relationship."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "But I promise I won't kill you until you reach the top."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "That's very comforting, but I'm afraid you'll just have to wait."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I hate waiting."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I could give you my word as a Spaniard."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "No good."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I've known too many Spaniards."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Any way you'll trust me?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Nothing comes to mind."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I swear on the soul of my father, Domingo Montoya… you will reach the top alive."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Throw me the rope."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Thank you."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Wait."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We'll wait until you're ready."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Again, thank you."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I do not mean to pry, but you don't by any chance… happen to have six fingers on your right hand?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "action",
+        "text": "*baffled*"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Do you always begin conversations this way?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My father was slaughtered by a six-fingered man."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He was a great swordmaker, my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "When the six-fingered man appeared… and request a special sword… my father took the job."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He slaved a year before he was done."
+    },
+    {
+        "person": "Man in Black",
+        "type": "action",
+        "text": "*impressed*"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I've never seen its equal."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "The six-fingered man returned and demanded it… but at 1/10 his promised price."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My father refused."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Without a word… the six-fingered man slashed him through the heart."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I loved my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "So naturally, I challenged his murderer to a duel."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I failed."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "The six-fingered man leave me alive… but he gave me this."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "How old were you?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I was eleven years old."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "When I was strong enough… I dedicated my life to the study of fencing."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "So the next time we meet, I will not fail."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I will go up to the six-fingered man and say...\"Hello."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My name is Inigo Montoya."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You killed my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Prepare to die.\""
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You've done nothing but study swordplay?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "More pursuit than study lately."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You see, I cannot find him."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "It's been twenty years now."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I'm starting to lose confidence."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I just work for Vizzini to pay the bills."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "There's not a lot of money in revenge."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I certainly hope you find him someday."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You're ready, then?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Whether I am or not, you've been more than fair."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You seem a decent fellow."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I hate to kill you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You seem a decent fellow."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I hate to die."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Begin."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You are using Bonetti's defense against me?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I thought it fitting, considering the rocky terrain."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Naturally, you must expect me to attack with Capo Ferro."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Naturally."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "But I find that Thibault cancels out Capo Ferro."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Don't you?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Unless the enemy has studied his Agrippa... *switches to the Agrippa swordfighting style*"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "...which I have."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You are wonderful!"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Thank you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I've worked hard to become so."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I admit it."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You are better than I am."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Then why are you smiling?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Because I know something you don't know."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "What is that?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I am not left-handed!"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You're amazing."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I ought to be, after twenty years."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "There's something I ought to tell you."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Tell me."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I'm not left-handed, either."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Who are you?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "No one of consequence."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I must know."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Get used to disappointment."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Kill me quickly."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I would sooner destroy a stained-glass window than an artist like yourself."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "However, since I can't have you following me, either... *knocks out Inigo with the hilt of his sword*"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Please understand, I hold you in the highest respect."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Inconceivable!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Give her to me!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Catch up with us quickly!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "What do I do?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Finish him, finish him... your way!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Good, my way."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Thank you, Vizzini."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Which way's my way?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Pick up one of those rocks, get behind the boulder."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "In a few minutes, the man in black will come running around the bend."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "The minute his head is in view, hit it with the rock!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "My way is not very sportsmanlike."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I did that on purpose."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I didn't have to miss."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I believe you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "So what happens now?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "We face each other as God intended."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Sportsmanlike."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "No tricks, no weapons."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Skill against skill alone."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You'll put down your rock, and I'll put down my sword… and we'll try and kill each other like civilized people?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I could kill you now."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Frankly, I think the odds are slightly in your favor at hand-fighting."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "It's not my fault being the biggest and the strongest."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I don't even exercise."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Are you just fiddling around with me, or what?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I want you to feel you are doing well."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I hate for people to die embarrassed."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You're quick!"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Good thing, too!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Why are you wearing a mask?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Were you burned with acid or something like that?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "No."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "It's just they're terribly comfortable."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I think everyone will be wearing them in the future."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I just figured why you give me so much trouble."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Why is that, do you think?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I haven't fought just one person for so long."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I've been specializing in groups."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Battling gangs for local charities… that kind of thing."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Why should that make such a... Oof!"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Difference?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Well, you see… you use different moves… when you're fighting half a dozen people… than when you only… have to be worried about one."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I do not envy you the headache you will have when you awake."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "But in the meantime, rest well and dream of large women."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "There was a mighty duel."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "It ranged all over."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "They were both masters."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Who won?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "How did it end?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "The loser ran off alone, while the winner... followed those footprints toward Guilder."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Shall we track them both?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "The loser is nothing."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Only the princess matters."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Clearly, this was all planned by warriors of Guilder."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "We must all be ready for whatever lies ahead."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Could this be a trap?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I always think everything could be a trap, which is why I'm still alive."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "So, it is down to you, and it is down to me."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "If you wish her dead, by all means, keep moving forward."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Let me explain."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "There's nothing to explain."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You're trying to kidnap what I've rightfully stolen."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Perhaps... an arrangement can be reached?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "There will be no arrangement, and you're killing her."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "If there can be no arrangement, then we are at an impasse."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I'm afraid so."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I can't compete with you physically, and you're no match for my brains."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You're that smart?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Let me put it this way: have you ever heard of Plato, Aristotle, Socrates?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Yes."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Morons."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Really?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "In that case, I challenge you to a battle of wits."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "For the princess?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "To the death?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I accept."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Good, then pour the wine."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Inhale this, but do not touch."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I smell nothing."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "What you do not smell is called iocane powder."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "It is odorless, tasteless, dissolves instantly in liquid, and is among the more deadly poisons known to man."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "All right, where is the poison?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "The battle of wits has begun."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "It ends when you decide, and we both drink, and find out who is right and who is dead."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "But it's so simple."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "All I have to do is divine from what I know of you: are you the sort of man who would put the poison into his own goblet or his enemy's?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "A clever man would put the poison into his own goblet, because he would know that only a great fool would reach for what he was given."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I am not a great fool, so I can clearly not choose the wine in front of you."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "But you must have known I was not a great fool; you would have counted on it, so I can clearly not choose the wine in front of me."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You've made your decision, then?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Not remotely, because iocane comes from Australia, as everyone knows, and Australia is entirely peopled with criminals, and criminals are used to having people not trust them *as you are not trusted by me*, so I can clearly not choose the wine in front of you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Truly, you have a dizzying intellect."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Wait till I get going!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Where was I?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Australia."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Yes, Australia."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You must have suspected I would have known the powder's origin, so I can clearly not choose the wine in front of me."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You're just stalling now."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You'd like to think that, wouldn't you?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You've beaten my giant, which means you're exceptionally strong, so you could have put the poison in your own goblet, trusting on your strength to save you, so I can clearly not choose the wine in front of you."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "But you've also bested my Spaniard, which means you must have studied, and in studying, you must have learned that man is mortal, so you would have put the poison as far from yourself as possible, so I can clearly not choose the wine in front of me."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You're trying to trick me into giving away something."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "It won't work."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "It has worked; you've given everything away."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I know where the poison is."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Then make your choice."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I will, and I choose... *gasps and points at something*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "What in the world can that be?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "action",
+        "text": "*turns around*"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Where?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I don't see anything."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I could have sworn I saw something."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "No matter."
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*chuckles*"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "What's so funny?"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I'll tell you in a minute."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "First, let's drink."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "Me from my glass and you from yours."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You guessed wrong."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You only think I guessed wrong."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "That's what's so funny!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "I switched glasses when your back was turned!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "action",
+        "text": "*laughs*"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You fool!"
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "You fell victim to one of the classic blunders."
+    },
+    {
+        "person": "Vizzini",
+        "type": "speech",
+        "text": "The most famous is \"Never get involved in a land war in Asia.\" But only slightly less well known is this… \"Never go in against a Sicilian when death is on the line!\""
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Who are you?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I am no one to be trifled with."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "That is all you ever need know."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "And to think, all that time, it was your cup that was poisoned."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "They were both poisoned."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I spent the last few years building up an immunity to iocane powder."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Someone has beaten the giant."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "There will be great suffering in Guilder if she dies."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Catch your breath."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "If you'll release me, whatever you ask for ransom, you'll get it."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I promise you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "action",
+        "text": "*laughs*"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "And what is that worth, the promise of a woman?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You're very funny, Highness."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I was giving you a chance."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "It does not matter where you take me."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "There is no greater hunter than Prince Humperdinck."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "He can track a falcon on a cloudy day."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "He can find you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You think your dearest love will save you?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I never said he was my dearest love."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "And, yes, he will save me."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "That I know."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You admit to me you do not love your fiancé."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "He knows I do not love him."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Are not capable of love is what you mean."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I have loved more deeply than a killer like yourself could ever dream."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "That was a warning, Highness."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "The next time, my hand flies on its own."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Where I come from, there are penalties when a woman lies."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Iocane: I'd bet my life on it."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "And there are the princess' footprints."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "She is alive, or was an hour ago."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "If she is otherwise when I find her... I shall be very put out."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Rest, Highness."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I know who you are."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Your cruelty reveals everything."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You're the Dread Pirate Roberts."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Admit it."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "With pride."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "What can I do for you?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You can die slowly, cut into a thousand pieces."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Hardly complimentary, Your Highness."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Why loose your venom on me?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You killed my love."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "It's possible."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I kill a lot of people."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Who was this love of yours?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Another prince like this one… ugly, rich, and scabby?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "A farm boy, poor."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Poor and perfect with eyes like the sea after a storm."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "On the high seas, your ship attacked."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "And the Dread Pirate Roberts never takes prisoners."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I can't afford to make exceptions."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Once word leaks out that a pirate has gone soft… people begin to disobey you… and then it's nothing but work, work, work all the time."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You mock my pain."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Life is pain, Highness."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Anyone who says differently is selling something."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I remember this farm boy of yours, I think."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "This would be, what, five years ago?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Does it bother you to hear?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Nothing you can say will upset me."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "He died well."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "That should please you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "No bribe attempts or blubbering."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "He simply said, \"Please… please, I need to live.\" It was the please that caught my memory."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I asked him what was so important."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "\"True love,\" he replied."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Then he spoke of a girl… of surpassing beauty and faithfulness."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "I can only assume he meant you."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "You should bless me for destroying him… before he found out what you really are."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "And what am I?"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Faithfulness he talked of, madam… your enduring faithfulness."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "Tell me truly."
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "When you found out he was gone… did you get engaged to your prince that same hour… or did you wait a whole week out of respect for the dead?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You mocked me once."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Never do it again!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I died that day!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You can die, too, for all I care!"
+    },
+    {
+        "person": "Man in Black",
+        "type": "speech",
+        "text": "As... you... wish!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Oh my sweet Westley, what have I done?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "They've disappeared."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "He must've seen us closing in, which might account for his panicking into error."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Unless I'm wrong *and I am never wrong*, they are headed dead into the Fire Swamp."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Can you move at all?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Move?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You're alive."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "If you want, I can fly."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I told you I would always come for you."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Why didn't you wait for me?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Well, you were dead."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Death cannot stop true love."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "All it can do is delay it for a while."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I will never doubt again."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "There will never be a need."
+    },
+    {
+        "person": "Grandson",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Oh, no."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "No, please."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "What is it?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "What's the matter?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "They're kissing again."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Do we have to hear the kissing part?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Someday, you may not mind so much."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Skip on to the Fire Swamp."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "That sounded good."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Oh."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "You're sick."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I'll humor you."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "So now, where were we here?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Yeah, yeah, yeah."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Oh, okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Westley and Buttercup raced along the ravine floor.\""
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Ha!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Your pig fiancé is too late."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "A few more steps, and we'll be safe in the Fire Swamp."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "We'll never survive."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Nonsense!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You only say that because no one ever has."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It's not that bad."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'm not saying I'd like to build a summer home here… but the trees are actually quite lovely."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Well, now, that was an adventure."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Singed a bit, were you?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "One thing I will say… the fire swamp certainly does keep you on your toes."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "This will all soon be but a happy memory… because Roberts' ship Revenge is anchored at the far end… and I, as you know, am Roberts."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "How is that possible… since he's been marauding twenty years… and you only left me five years ago?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I myself am often surprised at life's little quirks."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "What I told you before about saying please was true."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It intrigued Roberts… as did my description of your beauty."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Finally, Roberts decided something."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "He said, \"All right, Westley, I've never had a valet."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You can try it for tonight."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'll most likely kill you in the morning.\" Three years he said that."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "\"Good night, Westley, good work."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Sleep well."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'll most likely kill you in the morning.\" It was a fine time for me."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I was learning to fence, fight, anything anyone would teach me."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "And Roberts and I eventually became friends… and then it happened."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Go on."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Roberts had grown so rich, he wanted to retire… so he took me to his cabin and told me his secret."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "\"I am not the Dread Pirate Roberts,\" he said."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "\"My name is Ryan."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I inherited the ship from the previous Roberts… just as you will inherit it from me."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "The man I inherited it from wasn't the real Roberts, either."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "His name was Cummerbund."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "The real Roberts has been retired fifteen years... and living like a king.\" Thank you."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Then he explained the name was the important thing… for inspiring the necessary fear."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You see, no one would surrender to the Dread Pirate Westley."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "So we sailed ashore, took on an entirely new crew."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "And he stayed aboard for a while as first mate… all the time calling me Roberts."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Once the crew believed, he left the ship… and I have been Roberts ever since."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Except, now that we're together… I shall retire and hand the name over to someone else."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Is everything clear to you?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "We'll never succeed."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "We may as well die here."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "No, we have already succeeded."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I mean, what are the three terrors of the Fire Swamp?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "One, the flame spurt."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "No problem."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "There's a popping sound preceding each."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "We can avoid that."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Two, the lightning sand."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "But you were clever enough to discover what that looks like… so in the future, we can avoid that, too."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Westley, what about the R.O.U.S.s?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Rodents of Unusual Size?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I don't think they exist."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "We did it."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Now, was that so terrible?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Surrender!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You mean you wish to surrender to me?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Very well."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I accept."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I give you full marks for bravery."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Don't make yourself a fool."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Ah, but how will you capture us?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "We know the secrets of the Fire Swamp."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "We can live there quite happily for some time, so whenever you feel like dying, feel free to visit."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I tell you once again, surrender!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It will not happen."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "action",
+        "text": "*gets out his sword*"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "For the last time, surrender!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Death first!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Will you promise not to hurt him?!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "What was that?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "What was that?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "If we surrender and I return with you, will you promise not to hurt this man?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "May I live a thousand years and never hunt again."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "He is a sailor on the pirate ship Revenge."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Promise to return him to his ship."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I swear it will be done."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "action",
+        "text": "*to Rugen*"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Once we're out of sight, take him back to Florin and throw him in the Pit of Despair."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "I swear it will be done."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I thought you were dead once, and it almost destroyed me."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I could not bear it if you died again, not when I could save you."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Come, sir."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "We must get you to your ship."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "We are men of action."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Lies do not become us."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Well spoken, sir."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "What is it?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You have six fingers on your right hand."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Someone was looking for you."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Where am I?"
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "The Pit of Despair."
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "Don't even think... *clears his throat and reveals his creepy-sounding raspy voice is not his natural voice*"
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "Don't even think about trying to escape."
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "The chains are far too thick."
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "And don't dream of being rescued, either."
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "The only way in is secret."
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "Only the prince, the count, and I… know how to get in and out."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Then I'm here till I die?"
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "Till they kill you, yeah."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Then why bother curing me?"
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "The prince and count insist on everyone being healthy… before they're broken."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "So it's to be torture."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I can cope with torture."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You don't believe me?"
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "You survived the Fire Swamp."
+    },
+    {
+        "person": "The Albino",
+        "type": "speech",
+        "text": "You must be very brave… but nobody withstands the Machine."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "She's been like that ever since the Fire Swamp."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "It's my father's failing health that's upsetting her."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Of course."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"The king died that very night, and before the following dawn Buttercup and Humperdinck were married."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "And at noon, she met her subjects again... this time, as their queen.\""
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "My father's final words were..."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Hold it!"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Hold it, Grandpa."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "You read that wrong."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "She doesn't marry Humperdinck."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "She marries Westley."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I'm just sure of it."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "After all that Westley did for her… if she didn't marry him, it wouldn't be fair."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Who says life is fair?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Where is that written?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Life isn't always fair."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I'm telling you, you're messing up the story!"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Now, get it right!"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Do you want me to go on with this?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Yes."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "All right, then, no more interruptions."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"At noon, she met her subjects again... this time, as their queen.\""
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "My father's final words were: \"Love her as I loved her, and there will be joy.\" I present to you your queen!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Queen Buttercup!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Why do you do this?"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "You had love in your hands, and you gave it up!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "They would have killed Westley if I hadn't done it."
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Your true love lives, and you marry another!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "True love saved her in the Fire Swamp, and she treated it like garbage!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "And that's what she is: the Queen of Refuse!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "So bow down to her if you want!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Bow to her!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Bow to the Queen of Slime!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "The Queen of Filth!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "The Queen of Putrescence!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Rubbish!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Filth!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Slime!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Muck!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Ancient Booer",
+        "type": "speech",
+        "text": "Boo!"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "It was ten days till the wedding."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "The king still lived."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "But Buttercup's nightmares were growing steadily worse."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "See?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Didn't I say she'd never marry that rotten Humperdinck?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Yes, you're very smart."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Shut up."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "It comes to this."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I love Westley."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I always have."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I know now I always will."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "If you tell me I must marry you in ten days, please believe I will be dead by morning."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I could never cause you grief."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Consider our wedding off."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "You returned this… Westley to his ship?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Yes."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Then we will simply alert him."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Beloved, are you certain he still wants you?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "After all, it was you who did the leaving in the Fire Swamp."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Not to mention that pirates are not known as men of their words."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "My Westley will always come for me."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I suggest a deal."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "You write four copies of a letter."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I'll send my four fastest ships, one in each direction."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "The Dread Pirate Roberts is always close to Florin this time of year."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "We'll run up the white flag and deliver your message."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "If Westley wants you, bless you both."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "If not, please consider me as an alternative to suicide."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Are we agreed?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Your princess is really quite a winning creature."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "A trifle simple, perhaps, but her appeal is undeniable."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I know."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "The people are quite taken with her."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "It's odd, but when I hired Vizzini to have her murdered on our engagement day, I thought that was clever."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "But it's going to be so much more moving when I strangle her on our wedding night."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Once Guilder is blamed, the nation will be truly outraged."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "They'll demand we go to war."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Now, where is that secret knot?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "It's impossible to find."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Are you coming down into the pit?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Westley's got his strength back."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "I'm starting him on the Machine tonight."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Tyrone, you know how much I love watching you work, but I've got my country's 500th anniversary to plan, my wedding to arrange, my wife to murder, and Guilder to frame for it."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I'm swamped."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Get some rest."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "If you haven't got your health, you haven't got anything."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Beautiful, isn't it?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "It took me half a lifetime to invent it."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "I'm sure you've discovered… my deep and abiding interest in pain."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "At present, I'm writing the definitive work… on the subject."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "So I want you to be totally honest with me… on how the Machine makes you feel."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "This being our first try, I'll use the lowest setting."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "As you know, the concept of the suction pump… is centuries old."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Well, really, that's all this is."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Except that, instead of sucking water... I'm sucking life."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "I've just sucked one year of your life away."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "I might one day go as high as five… but I really don't know what that would do to you… so let's just start with what we have."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "What did this do to you?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Tell me."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "And remember, this is for posterity… so be honest."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "How do you feel?"
+    },
+    {
+        "person": "Rugen",
+        "type": "action",
+        "text": "*Westley cries*"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Interesting."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Yellin."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Sire."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "As chief enforcer of all Florin, I trust you with this secret."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Killers from Guilder are infiltrating the Thieves' Forest and plan to murder my bride on our wedding night."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "My spy network has heard no such news."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Any word from Westley?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Too soon, my angel."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Patience."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "He will come for me."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Of course."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "She will not be murdered."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "On the day of the wedding, I want the Thieves' Forest emptied and every inhabitant arrested."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Many of the thieves will resist."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "My regular enforcers will be inadequate."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Form a brute squad, then!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I want the Thieves' Forest emptied before I wed."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "It won't be easy, sire."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Try ruling the world sometime."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "The day of the wedding arrived."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "The brute squad had their hands full, carrying out Humperdinck's orders."
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Up!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Up!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Up!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Come on!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Come on!"
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Is everybody out?"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Almost."
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "There's a Spaniard giving us some trouble."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Well, you give him some trouble."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Move."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I am waiting for you, Vizzini."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You told me to go back to the beginning, so I have."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "This is where I am, and this is where I'll stay."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I will not be moved."
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Ho there!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I do not budge."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Keep your joder."
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "The prince gave orders."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "So did Vizzini."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "When a job went wrong, you went back to the beginning."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "This is where we got the job, so it's the beginning."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "And I am staying till Vizzini come."
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "You brute, come here!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I am waiting for Vizzini."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You surely are a meanie."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Hello."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "It's you."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "True."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You don't look so good."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You don't smell so good, either."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Perhaps not."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I feel fine."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Fezzik and Inigo were reunited."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "As Fezzik nursed his inebriated friend back to health, he told Inigo of Vizzini's death and the existence of Count Rugen, the six-fingered man."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Considering Inigo's lifelong search, he handled the news surprisingly well."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Fezzik took great care in reviving Inigo."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "That's enough!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Where is this Rugen now so I may kill him?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "He's with the prince in the castle… but the castle gate is guarded by thirty men."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "How many could you handle?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I don't think more than ten."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Leaving twenty for me."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "At my best, I could never defeat that many."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I need Vizzini to plan."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I have no gift for strategy."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "But Vizzini is dead."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "No."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Not Vizzini."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I need the man in black."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He bested you with strength, your greatness."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He bested me with steel."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He must have out-thought Vizzini."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "A man who can do that can plan my castle onslaught any day."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Let's go."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Where?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Find the man in black, obviously."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "But you don't know where he is."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Don't bother me with trifles."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "After twenty years, at last… my father's soul will be at peace."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "There will be blood tonight!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Rise and report."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "The Thieves' Forest is emptied."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Thirty men guard the castle gate."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Double it."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "My princess must be safe."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "The gate has but one key… and I carry that."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "My dulcet darling!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Tonight, we marry."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Tomorrow morning, your men will escort us to Florin Channel, where every ship in my armada waits to accompany us on our honeymoon."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Every ship but your four fastest, you mean."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Every ship but the four you sent."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Yes, of course."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Naturally, not those four."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "Your Majesties."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You never sent the ships."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Don't bother lying."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "It doesn't matter."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Westley will come for me, anyway."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "You're a silly girl."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Yes, I am a silly girl for not having seen sooner that you were nothing but a coward with a heart full of fear."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I would not say such things if I were you."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Why not?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "You can't hurt me."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Westley and I are joined by the bonds of love… and you cannot track that… not with a thousand bloodhounds… and you cannot break it… not with a thousand swords."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "And when I say you are a coward… that is only because you are the slimiest weakling… ever to crawl the earth."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I would not say such things if I were you!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "You truly love each other, and so you might have been truly happy."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Not one couple in a century has that chance, no matter what the storybooks say."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "So I think no man in a century will suffer as greatly as you will."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "NOT TO FIFTY!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Listen."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Do you hear?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "That is the sound of ultimate suffering."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My heart made that sound when Rugen slaughtered my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "The man in black makes it now."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "The man in black?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "His true love is marrying another tonight."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Who else has the cause for ultimate suffering?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Excuse me."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Pardon me, it's important."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Fezzik, please."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Everybody, move!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Thank you."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Where is the man in black?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You get there from this grove, yes?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Fezzik, jog his memory."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I'm sorry, Inigo."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I didn't mean to jog him so hard."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Father, I have failed you for twenty years."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Now our misery can end."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Somewhere… somewhere close by is a man who can help us."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I cannot find him alone."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I need you."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I need you to guide my sword."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Please."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Guide my sword."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "He's dead."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "It just is not fair."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Grandpa, wait!"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Wait."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What did Fezzik mean, \"He's dead\"?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I mean, he didn't mean dead."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Westley's only faking, right?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "You want me to read this or not?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Who gets Humperdinck?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I don't understand."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Who kills Prince Humperdinck at the end?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Somebody's got to do it."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Is it Inigo?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Who?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Nobody."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Nobody kills him."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "He lives."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "You mean he wins?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Jesus, Grandpa, what did you read me this thing for?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "You've been very sick, and you're taking this story very seriously."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I think we ought to stop now."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "No, I'm OK."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I'm OK."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Sit down."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "I'm all right."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "All right, now, let's see, where were we?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Oh, yes, in the Pit of Despair."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We Montoyas have never taken defeat easily."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Come along, Fezzik."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Bring the body."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "The body?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Have you any money?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I have a little."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I just hope it's enough to buy a miracle, that's all."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Go away!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Are you the Miracle Max… who worked for the king all those years?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "The king's stinking son fired me."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "And thank you for bringing up such a painful subject."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "While you're at it, why don't you give me a nice paper cut… and pour lemon juice on it?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "We're closed!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Beat it, or I'll call the brute squad."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I'm on the brute squad."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You are the brute squad."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We need a miracle."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "It's very important."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Look, I'm retired."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "And besides… why would you want someone the king's stinking son fired?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I might kill whoever you wanted me to miracle."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He's already dead."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "He is, huh?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I'll take a look."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Bring him in."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I've seen worse."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Sir?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We're in a terrible rush."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Don't rush me, sonny."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "You rush a miracle man, you get rotten miracles."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "You got money?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Sixty-five."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I never worked for so little… except once, and that was a very noble cause."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "This is noble, sir."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "His wife is crippled."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "His children are on the brink of starvation."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Are you a rotten liar!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I need him to help avenge my father… murdered these twenty years."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Your first story was better."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Where's that bellows?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "He probably owes you money, huh?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Well, I'll ask him."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He's dead."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He can't talk."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Look who knows so much, huh?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "It just so happens your friend is only mostly dead."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "There's a big difference between mostly dead and all dead."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Please open his mouth."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Now, mostly dead is slightly alive."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Now, all dead… well, with all dead… there's usually only one thing that you can do."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "What's that?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Go through his clothes and look for loose change."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Hey!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Hello in there!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Hey!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "What's so important?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "What you got here that's worth living for?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Tr-u-u-ue lo-o-o-ove."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "True love."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You heard him?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You could not ask for a more noble cause than that."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Hey, sonny… true love is the greatest thing in the world… except for a nice M.L.T… mutton, lettuce, and tomato sandwich… when the mutton is nice and lean and the tomato is ripe."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "They're so perky."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I love that."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "But that's not what he said."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "He distinctly said, \"To bl-a-a-ave.\" And as we all know, to blave means to bluff, huh?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "So you were probably playing cards, and he cheated..."
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Liar!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Liar!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Liar!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Get back, witch!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "I'm not a witch!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "I'm your wife!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "But after what you just said… I'm not even sure I want to be that anymore!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "You never had it so good."
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "He said true love, Max."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Don't say another word, Valerie!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "He's afraid."
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Ever since Prince Humperdinck fired him... his confidence is shattered."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Why'd you say that name?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "You promised me that you would never say that name!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Humperdinck?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I'm not listening!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "A life expiring… and you don't have the decency to say why you won't help!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Nobody's hearing nothing!"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Humperdinck!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "This is Buttercup's true love."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "If you heal him, he will stop Humperdinck's wedding."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Shut up!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Wait a minute."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I make him better, Humperdinck suffers?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Humiliations galore!"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "action",
+        "text": "*scats*"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "That is a noble cause."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Give me the sixty-five."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "I'm on the job."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "That's a miracle pill?"
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "The chocolate coating makes it go down easier… but you have to wait 15 minutes for full potency… and you shouldn't go swimming for at least, what?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "An hour."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "A good hour."
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Yeah, an hour."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Thank you for everything."
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Bye-bye, boys."
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "Have fun storming the castle."
+    },
+    {
+        "person": "Valerie",
+        "type": "speech",
+        "text": "Think it'll work?"
+    },
+    {
+        "person": "Miracle Max",
+        "type": "speech",
+        "text": "It would take a miracle."
+    },
+    {
+        "person": "Max and Valerie",
+        "type": "speech",
+        "text": "Bye!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Anything?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Inigo, there's more than thirty."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "What's the difference?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We've got him."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Help me here."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We'll have to force-feed him."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Has it been fifteen minutes?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We can't wait."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "The wedding's in half an hour."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We must strike in the hustle and bustle beforehand."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Tilt his head back."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Open his mouth."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "How long do we have to wait… before if we know the miracle works?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Your guess is as good as mine."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'll beat you apart!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'll take you both together!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I guess not very long."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Why won't my arms move?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You've been mostly dead all day."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "We had Miracle Max make a pill to bring you back."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Who are you?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Are we enemies?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Why am I on this wall?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Where's Buttercup?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Let me explain."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "No, there is too much."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Let me sum up."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Buttercup's marrying Humperdinck in less than half an hour… so all we have to do is get in, break up the wedding… steal the princess, make our escape… after I kill Count Rugen."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "That doesn't leave much time for dilly-dallying."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You just wiggled your finger!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "That's wonderful!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I've always been a quick healer."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "What are our liabilities?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "There is but one working castle gate."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Come on."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "And it is guarded by sixty men."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "And our assets?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Your brains, Fezzik's strength, my steel."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "That's it?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Impossible."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "If I had a month to plan… maybe I could come up with something, but this..."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "You just shook your head!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "That doesn't make you happy?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "My brains, his steel… and your strength against sixty men… and a little head jiggle is supposed to make me happy?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "If we only had a wheelbarrow, that would be something."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Where did we put the wheelbarrow the albino had?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Over the albino, I think."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Why didn't you list that among our assets in the first place?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "What I wouldn't give for a holocaust cloak."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "There we cannot help you."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Will this do?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Where did you get that?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "At Miracle Max's."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "It fit so nice, he said I could keep it."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "All right."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Come on, help me up."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'll need a sword eventually."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Why?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You can't even lift one."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "True, but that's hardly common knowledge, is it?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Thank you."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "There may be problems once we're inside."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I'll say."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "How do I find the count?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Once I do, how do I find you again?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Once I find you again, how do we escape?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Don't pester him."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "He's had a hard day."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Right, right."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Sorry."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Inigo."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I hope we win."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "You don't seem excited, my little muffin."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Should I be?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Brides often are, I'm told."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I do not marry tonight."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "My Westley will save me."
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "Marriage… Marriage is what brings us together... today."
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "Marriage… that blessed arrangement… that dream within a dream..."
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Stand your ground, men!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I am the Dread Pirate Roberts."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "There will be no survivor!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Now?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Not yet."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "My men are here."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I am here... but soon you will not be here."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Now?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Light him."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "The Dread Pirate Roberts… takes no survivors."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "All your worst nightmares… are about to come true."
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "Then love… true love… will follow you… forever."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "The Dread Pirate Roberts… is here for your souls!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Stay where you are!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Fight!"
+    },
+    {
+        "person": "Unknown",
+        "type": "speech",
+        "text": "Stay where you are!"
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "So treasure your love."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Skip to the end."
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "Have you the ring?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Here comes my Westley now."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Fezzik, the portcullis!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Your Westley is dead."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I killed him myself."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Then why is there fear behind your eyes?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Give us the gate key."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "I have no gate key."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Fezzik, tear his arms off."
+    },
+    {
+        "person": "Yellin",
+        "type": "speech",
+        "text": "You mean this gate key?"
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "...and do you, Princess Buttercup..."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Man and wife!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Say man and wife!"
+    },
+    {
+        "person": "Clergyman",
+        "type": "speech",
+        "text": "Man and wife."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Escort the bride to the honeymoon suite."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I'll be there shortly."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "He didn't come."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Kill the dark one and the giant… but leave the third for questioning."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Hello."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My name is Inigo Montoya."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You killed my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Prepare to die."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I need you!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I can't leave him alone."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "He's getting away from me, Fezzik!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Please!"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I'll be right back."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Thank you."
+    },
+    {
+        "person": "King",
+        "type": "speech",
+        "text": "Strange wedding."
+    },
+    {
+        "person": "Queen",
+        "type": "speech",
+        "text": "Yes... a very strange wedding."
+    },
+    {
+        "person": "Queen",
+        "type": "speech",
+        "text": "Come along."
+    },
+    {
+        "person": "King",
+        "type": "speech",
+        "text": "What was that for?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Because you've always been so kind to me."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "And I won't be seeing you again… since I'm killing myself once we reach the honeymoon suite."
+    },
+    {
+        "person": "King",
+        "type": "speech",
+        "text": "Won't that be nice?"
+    },
+    {
+        "person": "King",
+        "type": "speech",
+        "text": "She kissed me!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Sorry, Father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I tried."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I tried..."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "You must be that little Spanish brat... I taught a lesson to all those years ago."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Simply incredible."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Have you been chasing me your whole life… only to fail now?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "I think that's the worst thing I've ever heard."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "How marvelous."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "There's a shortage of perfect breasts in this world."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It would be a pity to damage yours."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Oh, Westley, darling!"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Westley, why won't you hold me?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Gently."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "At a time like this… that's all you can think to say, gently?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Gently!"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Good heavens, are you still trying to win?"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "You've got an overdeveloped sense of vengeance."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "It's going to get you into trouble someday."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Hello."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My name is Inigo Montoya."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You killed my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Prepare to die."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Hello."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My name is Inigo Montoya."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You killed my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Prepare to die."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "HELLO!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "My name is Inigo Montoya."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You killed my father."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Prepare to die."
+    },
+    {
+        "person": "Rugen",
+        "type": "action",
+        "text": "*visibly and simultaneously annoyed and unnerved*"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Stop saying that!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "HELLO!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "MY NAME IS INIGO MONTOYA!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "YOU KILLED MY FATHER!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "PREPARE TO DIE!"
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "NO!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Offer me money."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Yes!"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Power, too, promise me that."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "All that I have and more, please."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Offer me everything I ask for."
+    },
+    {
+        "person": "Rugen",
+        "type": "speech",
+        "text": "Anything you want."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I want my father back, you son of a bitch."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Westley, will you ever forgive me?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "What hideous sin have you committed lately?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I got married."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I didn't want to."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "It all happened so fast."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It never happened."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It never happened."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "But it did."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "I was there."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "This old man said man and wife."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Did you say I do?"
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "We sort of skipped that part."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Then you're not married."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "If you didn't say it, you didn't do it."
+    },
+    {
+        "person": "Westley",
+        "type": "action",
+        "text": "*to Humperdinck*"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Wouldn't you agree, Your Highness?"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "A technicality that will shortly be remedied."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "But first things first."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "action",
+        "text": "*gets out his sword*"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "To the death."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "No!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "To the pain."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I don't think I'm quite familiar with that phrase."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I'll explain, and I'll use small words so that you'll be sure to understand, you warthog-faced buffoon."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "That may be the first time in my life a man has dared insult me."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It won't be the last."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "To the pain means the first thing you lose will be your feet below the ankles."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Then your hands at the wrists."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Next your nose."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "And then my tongue, I suppose."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I killed you too quickly the last time, a mistake I don't mean to duplicate tonight."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I wasn't finished."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "The next thing you lose will be your left eye, then your right."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "And then my ears."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I understand!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "Let's get on with it!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Wrong!"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Your ears you keep, and I'll tell you why."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "So that every shriek of every child at seeing your hideousness will be yours to cherish."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Every babe that weeps at your approach, every woman who cries out, \"Dear God, what is that thing?\" will echo in your perfect ears."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "That is what \"to the pain\" means."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It means I leave you in anguish, wallowing in freakish misery forever."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I think you're bluffing."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It's possible, pig, I might be bluffing."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "It's conceivable, you miserable vomitous mass, I'm only lying here because I lack the strength to stand."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Then again… perhaps I have the strength after all."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "DROP."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "YOUR."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "SWORD."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Have a seat."
+    },
+    {
+        "person": "Westley",
+        "type": "action",
+        "text": "*to Buttercup, as Humperdinck takes a seat on the most royal-looking chair in the room*"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Tie him up."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Make it as tight as you like."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Where's Fezzik?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "I thought he was with you?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "No."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "In that case..."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Help him."
+    },
+    {
+        "person": "Buttercup",
+        "type": "speech",
+        "text": "Why does Westley need helping?"
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Because he has no strength."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I knew it!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I knew you were bluffing!"
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "I knew he was..."
+    },
+    {
+        "person": "Humperdinck",
+        "type": "speech",
+        "text": "...bluffing."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Shall I dispatch him for you?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Thank you, but no."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Whatever happens to us, I want him to live a long life, alone with his cowardice."
+    },
+    {
+        "person": "Fezzik",
+        "type": "action",
+        "text": "*offscreen*"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Inigo, where are you?"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Ah, there you are."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Inigo, I saw the prince's stables, and there they were, four white horses."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "And I thought, there are four of us… if we ever find the lady."
+    },
+    {
+        "person": "Fezzik",
+        "type": "action",
+        "text": "*waves to Buttercup*"
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Hello, lady."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "So I took them with me in case we ever bumped into each other."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I guess we just did."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "Fezzik, you did something right."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "Don't worry."
+    },
+    {
+        "person": "Fezzik",
+        "type": "speech",
+        "text": "I won't let it go to my head."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "You know, it's very strange."
+    },
+    {
+        "person": "Inigo",
+        "type": "speech",
+        "text": "I have been in the revenge business so long… now that it's over... I don't know what to do with the rest of my life."
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "Have you ever considered piracy?"
+    },
+    {
+        "person": "Westley",
+        "type": "speech",
+        "text": "You'd make a wonderful Dread Pirate Roberts."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"They rode to freedom."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "And as dawn arose, Westley and Buttercup knew they were safe.\""
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"A wave of love swept over them."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "And as they reached for each other...\""
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "What?"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "No, it's kissing again."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "You don't want to hear that."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "I don't mind so much."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*shrugs*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "action",
+        "text": "*voiceover*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"Since the invention of the kiss… there have been five kisses… that were rated the most passionate… the most pure."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "This one left them all behind.\""
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "\"The end.\" *closes the book*"
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Now, I think you ought to go to sleep."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "Okay."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "All right."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "So long."
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Grandpa?"
+    },
+    {
+        "person": "Grandson",
+        "type": "speech",
+        "text": "Maybe you could come over and read it again to me tomorrow."
+    },
+    {
+        "person": "Grandfather",
+        "type": "speech",
+        "text": "As you wish."
+    }
+]
