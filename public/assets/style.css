@@ -41,10 +41,14 @@ aside .input-group {
     margin-bottom: 3px;
 }
 
+#messages {
+    padding: 0px 5%;
+}
+
 #input {
     height: 4.5em;
     width: 100%;
-    padding: 1em 2em;
+    padding: 1em 5%;
 }
 
 #input > .dropdown-menu {
@@ -55,4 +59,52 @@ aside .input-group {
     max-width: min(800px, 100vw - 2em);
     overflow-y: scroll;
     overflow-x: hidden;
+}
+
+.message {
+    display: flex;
+    gap: 0.5em;
+    max-width: 75%;
+    user-select: none;
+    margin-bottom: 1em;
+}
+
+.message.incoming {
+    flex-direction: row;
+    margin-right: auto;
+    text-align: start;
+}
+
+.message.outgoing {
+    flex-direction: row-reverse;
+    margin-left: auto;
+    text-align: end;
+}
+
+.message > .side > span {
+    display: block;
+}
+
+.message .avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+}
+
+.message p {
+    padding: 0.25em 0.75em;
+    border-radius: var(--bs-border-radius);
+    text-align: start;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+.message.incoming p {
+    background-color: var(--bs-secondary-bg);
+    border: 1px solid var(--bs-border-color);
+}
+
+.message.outgoing p {
+    color: white;
+    background-color: var(--bs-primary);
 }

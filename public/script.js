@@ -273,7 +273,10 @@ document.addEventListener("click", function(e) {
       if (renderedKeys.has(key)) return;
       renderedKeys.add(key);
       const div = document.createElement('div');
-      const time = msg.time ? new Date(msg.time).toLocaleTimeString() : '';
+
+      div.classList.add('message', msg.user === currentAlias ? 'outgoing' : 'incoming');
+
+      const time = msg.time ? new Date(msg.time).toLocaleTimeString().toLowerCase() : '--';
       // msg.text is intended to be an index into dataList. Parse and lookup safely.
       let displayText = '';
       const idx = parseInt(msg.text, 10);
@@ -286,6 +289,15 @@ document.addEventListener("click", function(e) {
         displayText = '[unknown message]';
       }
       div.textContent = `[${time}] ${msg.user}: ${displayText}`;
+
+      div.innerHTML = `
+        <img src="https://api.dicebear.com/9.x/thumbs/svg?seed=${msg.user}" alt="${msg.user}'s profile picture" class="avatar" draggable="false" />
+        <div class="side">
+          <span><b>${msg.user}</b> <i>at ${time}</i></span>
+          <p>${displayText}</p>
+        </div>
+      `;
+
       messagesDiv.appendChild(div);
       scrollToLastMessage();
       lastMessage = msg;
