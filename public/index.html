@@ -89,8 +89,8 @@ let messages = null; // will point to current chat messages node
 function getChatFromUrl() {
   try {
     const params = new URLSearchParams(window.location.search);
-    return params.get('chat') || 'lobby';
-  } catch (e) { return 'lobby'; }
+    return params.get('chat') || 'mainlobby';
+  } catch (e) { return 'mainlobby'; }
 }
 
 let currentChat = getChatFromUrl();
