@@ -6,6 +6,7 @@
   <title>Princess Bride Chat</title>
   <link rel="stylesheet" href="./assets/style.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 </head>
 
 <body>
@@ -17,13 +18,16 @@
       Login/Sign up
     </button>
 
+    <button id="notifications-toggle" type="button" class="btn btn-primary"><i class="bi bi-bell-fill"></i><i class="bi bi-bell-slash-fill"></i></button>
+    <button id="theme-toggle" type="button" class="btn btn-primary"><i class="bi bi-sun-fill"></i><i class="bi bi-moon-fill"></i></button>
+
     <div id="chatControls" style="display:block; margin-bottom:10px;">
       <input id="chatName" placeholder="New chat name (e.g. lobby)" style="width:60%; padding:8px;" class="form-control" />
       <button id="joinBtn" class="btn btn-primary">Join</button>
       <select id="chatSelect" class="form-select" style="width:38%; padding:8px;"></select>
       <div style="margin-top:8px; display:flex; gap:8px; align-items:center;">
         <input id="shareUrl" readonly style="flex:1; padding:8px;" class="form-control" />
-        <button id="copyBtn" class="btn btn-primary">Copy URL</button>
+        <button id="copyBtn" class="btn btn-primary"><i class="bi bi-copy"></i></button>
       </div>
     </div>
 
@@ -33,15 +37,11 @@
       <div class="autocomplete">
         <input id="msgInput" type="text" placeholder="Type something..." class="form-control" />
       </div>
-      <button id="sendBtn" class="btn btn-primary">Send</button>
-      <hr>
-      <div>
-        <input type="checkbox" id="box" checked class="form-check-input" />
-        <label for="box">Enable sound notifications</label>
-      </div>
+      <button id="sendBtn" class="btn btn-primary"><i class="bi bi-send-fill"></i></button>
     </div>
   </div>
 
+  <!-- Login/Register modal -->
   <div class="modal fade" id="login-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">

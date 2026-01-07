@@ -1,3 +1,6 @@
+let notificationsEnabled = true;
+let darkMode = false;
+
 var audio = new Audio('./assets/notification.mp3');
 audio.volume = 0.6;
   // Attempt to unlock audio on first user interaction to satisfy autoplay policies
@@ -36,7 +39,8 @@ const joinBtn = document.getElementById('joinBtn');
 const chatSelect = document.getElementById('chatSelect');
 const shareUrlInput = document.getElementById('shareUrl');
 const copyBtn = document.getElementById('copyBtn');
-const checkbox= document.getElementById('box');
+const notificationsToggle = document.getElementById("notifications-toggle");
+const themeToggle = document.getElementById("theme-toggle");
 
 let lastMessage;
 let currentUser;
@@ -49,6 +53,11 @@ const input = msgInput;
 let currentFocus = -1;
 let dataList = [];
 
+function setButtonIcon(buttonId, iconName) {
+    const button = document.getElementById(buttonId);
+    button.innerHTML = `<i class="bi ${iconName}"></i>`;
+}
+
 fetch('quotes.json')
     .then(response => response.json())
     .then(data => {
@@ -60,10 +69,25 @@ fetch('quotes.json')
     })
     .catch(error => console.error('Error loading quotes:', error));
 
-checkbox.checked = (localStorage.getItem('notify-sound') !== 'false');
+notificationsEnabled = (localStorage.getItem('notify-sound') !== 'false');
+darkMode = (localStorage.getItem('color-theme') === 'dark');
 
-checkbox.addEventListener('change', function() {
-  localStorage.setItem('notify-sound', this.checked ? 'true' : 'false');
+document.body.parentElement.setAttribute("data-bs-theme", darkMode ? 'dark' : 'light')
+
+setButtonIcon('notifications-toggle', notificationsEnabled ? 'bi-bell-fill' : 'bi-bell-slash-fill')
+setButtonIcon('theme-toggle', darkMode ? 'bi-sun-fill' : 'bi-moon-fill')
+
+notificationsToggle.addEventListener('click', function() {
+  notificationsEnabled = !notificationsEnabled;
+  localStorage.setItem('notify-sound', notificationsEnabled ? 'true' : 'false');
+  setButtonIcon('notifications-toggle', notificationsEnabled ? 'bi-bell-fill' : 'bi-bell-slash-fill')
+});
+
+themeToggle.addEventListener('click', () => {
+    darkMode = !darkMode;
+    localStorage.setItem('color-theme', darkMode ? 'dark' : 'light');
+    document.body.parentElement.setAttribute("data-bs-theme", darkMode ? 'dark' : 'light')
+    setButtonIcon('theme-toggle', darkMode ? 'bi-sun-fill' : 'bi-moon-fill')
 });
 
 msgInput.addEventListener("input", function() {
@@ -252,8 +276,7 @@ document.addEventListener("click", function(e) {
       messagesDiv.scrollTop = messagesDiv.scrollHeight;
       lastMessage = msg;
       try {
-        const box = document.getElementById('box');
-        if (box && box.checked && msg.user && msg.user && old!==lastMessage && msg.user!==currentAlias) {
+        if (notificationsEnabled && msg.user && msg.user && old!==lastMessage && msg.user!==currentAlias) {
           old=lastMessage;
           audio.play().then(() => {
             console.log('notification played');
