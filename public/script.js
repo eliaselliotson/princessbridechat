@@ -21,7 +21,8 @@ let currentChat = getChatFromUrl();
 
 let old;
 
-const loginDiv = document.getElementById('login');
+const loginModal = new bootstrap.Modal('#login-modal');
+const loginOpener = document.getElementById('login-opener');
 const inputDiv = document.getElementById('input');
 const messagesDiv = document.getElementById('messages');
 const usernameInput = document.getElementById('username');
@@ -197,8 +198,9 @@ document.addEventListener("click", function(e) {
       currentUser = gun.user();
       // cache alias for suppressing self-notifications
       currentUser.get('alias').once(a => { currentAlias = a; });
-      loginDiv.style.display = 'none';
+      loginOpener.style.display = 'none';
       inputDiv.style.display = 'flex';
+      loginModal.hide();
       // attach messages listener for the current chat (ensures single listener)
       setChat(currentChat);
     });

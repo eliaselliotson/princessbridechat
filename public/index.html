@@ -3,31 +3,27 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>PrincessBrideChat</title>
-  <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
+  <title>Princess Bride Chat</title>
   <link rel="stylesheet" href="./assets/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" />
 </head>
 
 <body>
 
   <div id="chat">
-    <h2>Gun.js Chat with Auth</h2>
+    <h2>Princess Bride Chat</h2>
 
-    <div id="login">
-      <input id="username" placeholder="Username" />
-      <input id="password" type="password" placeholder="Password" />
-      <button id="signupBtn">Sign Up</button>
-      <button id="loginBtn">Login</button>
-    </div>
+    <button id="login-opener" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#login-modal">
+      Login/Sign up
+    </button>
 
     <div id="chatControls" style="display:block; margin-bottom:10px;">
-      <input id="chatName" placeholder="New chat name (e.g. lobby)" style="width:60%; padding:8px;" />
-      <button id="joinBtn">Join</button>
-      <select id="chatSelect" style="width:38%; padding:8px;"></select>
+      <input id="chatName" placeholder="New chat name (e.g. lobby)" style="width:60%; padding:8px;" class="form-control" />
+      <button id="joinBtn" class="btn btn-primary">Join</button>
+      <select id="chatSelect" class="form-select" style="width:38%; padding:8px;"></select>
       <div style="margin-top:8px; display:flex; gap:8px; align-items:center;">
-        <input id="shareUrl" readonly style="flex:1; padding:8px;" />
-        <button id="copyBtn">Copy URL</button>
+        <input id="shareUrl" readonly style="flex:1; padding:8px;" class="form-control" />
+        <button id="copyBtn" class="btn btn-primary">Copy URL</button>
       </div>
     </div>
 
@@ -35,17 +31,42 @@
 
     <div id="input" style="display:none;">
       <div class="autocomplete">
-        <input id="msgInput" type="text" placeholder="Type something...">
+        <input id="msgInput" type="text" placeholder="Type something..." class="form-control" />
       </div>
-      <button id="sendBtn">Send</button>
+      <button id="sendBtn" class="btn btn-primary">Send</button>
       <hr>
       <div>
-        <input type="checkbox" id="box" checked>
+        <input type="checkbox" id="box" checked class="form-check-input" />
         <label for="box">Enable sound notifications</label>
       </div>
     </div>
   </div>
 
+  <div class="modal fade" id="login-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Log In or Sign Up</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <input id="username" placeholder="Username" class="form-control" />
+          <input id="password" type="password" placeholder="Password" class="form-control" />
+          <button id="signupBtn" class="btn btn-primary">Sign Up</button>
+          <button id="loginBtn" class="btn btn-primary">Login</button>
+          <p class="text-start fst-italic fst-light lh-sm small text-muted">
+            This app is completely free, and no email or personal information is required.
+            We do not guarantee ongoing maintenance or support for the app, and we are not
+            responsible for any misconduct by the app's users. Use the app at your own risk.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
   <script src="./script.js"></script>
 
 </body>
