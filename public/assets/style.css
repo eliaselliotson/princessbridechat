@@ -1,27 +1,51 @@
-body { font-family: Arial; background: #f0f0f0; margin: 0; padding: 20px; }
-  #chat { max-width: 500px; margin: auto; }
-  #messages { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; background: #fff; }
-  #messages div { margin-bottom: 10px; }
-  #input { display: flex; margin-top: 10px; }
-  #input input { flex: 1; padding: 10px; font-size: 16px; }
-  #input button { padding: 10px 20px; font-size: 16px; }
-    .autocomplete { position: relative; display: inline-block; width: 300px; }
-  input { width: 100%; padding: 8px; box-sizing: border-box; }
-  .autocomplete-items {
+html {
+    overflow: hidden;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+aside {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+main {
+    flex: 1;
+    overflow-y: scroll;
+}
+
+.autocomplete {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+}
+
+.autocomplete-items {
     position: absolute;
     border: 1px solid #ccc;
     border-bottom: none;
     z-index: 99;
     bottom: 100%;
-    left: 0; right: 0;
+    left: 0;
+    right: 0;
     background: white;
     max-height: 150px;
     overflow-y: auto;
-  }
-  .autocomplete-item {
+}
+
+.autocomplete-item {
     padding: 8px;
     cursor: pointer;
-  }
-  .autocomplete-item:hover, .autocomplete-active {
+}
+
+.autocomplete-item:hover,
+.autocomplete-active {
     background-color: #e9e9e9;
-  }
+}
