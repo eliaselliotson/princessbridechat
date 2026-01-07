@@ -3,7 +3,7 @@ let darkMode = false;
 
 document.getElementById("menu-opener").addEventListener("click", () => {
   if (window.innerWidth < 960) {
-    document.querySelector("aside").setAttribute("style", "display: block !important");
+    document.querySelector("aside").setAttribute("style", "display: flex !important");
     document.querySelector("main").setAttribute("style", "display: none !important");
   }
 });
@@ -198,7 +198,7 @@ function setChat(chatId) {
   document.getElementById("room-title").innerText = chatId;
   if (window.innerWidth < 960) {
     document.querySelector("aside").setAttribute("style", "display: none !important");
-    document.querySelector("main").setAttribute("style", "display: block !important");
+    document.querySelector("main").setAttribute("style", "display: flex !important");
   }
   // update URL without reloading
   try { history.replaceState(null, '', '?chat=' + encodeURIComponent(chatId)); } catch (e) {}
