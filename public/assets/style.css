@@ -22,6 +22,9 @@ aside p {
 }
 
 main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     flex: 1;
     overflow-y: scroll;
 }
@@ -43,6 +46,7 @@ aside .input-group {
 
 #messages {
     padding: 0px 5%;
+    padding-top: 2em;
 }
 
 #input {
