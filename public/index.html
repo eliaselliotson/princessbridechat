@@ -15,17 +15,18 @@
     <div>
       <h2>Rooms</h2>
 
-      <div id="chatControls" style="display:block; margin-bottom:10px;">
-        <input id="chatName" placeholder="New chat name (e.g. lobby)" style="width:60%; padding:8px;" class="form-control" />
-        <button id="joinBtn" class="btn btn-primary">Join</button>
-        <select id="chatSelect" class="form-select" style="width:38%; padding:8px;"></select>
+      <div class="input-group">
+        <span class="input-group-text bg-body-tertiary" id="basic-addon1"><i class="bi bi-search"></i></span>
+        <input class="form-control bg-body-tertiary" id="chatName" placeholder="Search rooms..." />
       </div>
+
+      <div id="rooms">
+        <button id="joinBtn" class="btn btn-light text-center d-none"><i class="bi bi-plus-lg"></i> Create room</button>
+      </div>
+      
     </div>
     <div>
       <!-- <div style="width: 100%; height: 400px; background-color: #888888">An ad can go here</div> -->
-      <button id="login-opener" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#login-modal">Log In</button>
-      <button id="notifications-toggle" type="button" class="btn btn-primary"></button>
-      <button id="theme-toggle" type="button" class="btn btn-primary"></button>
       <p class="text-start fst-light lh-sm small text-muted">
         Made with ❤️ by <a class="text-muted" href="https://github.com/eliaselliotson">Elias Elliotson</a>
         and <a class="text-muted" href="https://github.com/kokorocks">kokorocks</a>
@@ -36,16 +37,17 @@
 
   <main>
     <header class="bg-body border-bottom shadow-sm sticky-top">
-      <h2 id="chat-title">Lobby</h2>
+      <h2 id="room-title">Connecting...</h2>
       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#share-modal"><i class="bi bi-link"></i></button>
+      <button id="login-opener" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#login-modal">Log In</button>
+      <button id="notifications-toggle" type="button" class="btn btn-primary"></button>
+      <button id="theme-toggle" type="button" class="btn btn-primary"></button>
     </header>
 
     <div id="messages"></div>
 
-    <div id="input" style="display:none;" class="sticky-bottom">
-      <div class="autocomplete">
-        <input id="msgInput" type="text" placeholder="Type something..." class="form-control" />
-      </div>
+    <div id="input" style="display:none;" class="sticky-bottom bg-body border-top">
+      <input id="msgInput" type="text" placeholder="Type something..." class="form-control" />
       <button id="sendBtn" class="btn btn-primary"><i class="bi bi-send-fill"></i></button>
     </div>
 

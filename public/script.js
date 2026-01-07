@@ -36,7 +36,7 @@ const msgInput = document.getElementById('msgInput');
 const sendBtn = document.getElementById('sendBtn');
 const chatNameInput = document.getElementById('chatName');
 const joinBtn = document.getElementById('joinBtn');
-const chatSelect = document.getElementById('chatSelect');
+const roomSelect = document.getElementById('rooms');
 const shareUrlInput = document.getElementById('shareUrl');
 const copyBtn = document.getElementById('copyBtn');
 const notificationsToggle = document.getElementById("notifications-toggle");
@@ -58,6 +58,15 @@ function setButtonIcon(buttonId, iconName) {
     button.innerHTML = `<i class="bi ${iconName}"></i>`;
 }
 
+function updateTheme(theme) {
+    localStorage.setItem('color-theme', theme);
+    document.body.parentElement.setAttribute("data-bs-theme", theme);
+    document.querySelectorAll(theme === 'dark' ? '.btn-light' : '.btn-dark').forEach(e => {
+        e.classList.remove(theme === 'dark' ? 'btn-light' : 'btn-dark');
+        e.classList.add(theme === 'dark' ? 'btn-dark' : 'btn-light');
+    })
+}
+
 fetch('quotes.json')
     .then(response => response.json())
     .then(data => {
@@ -72,7 +81,7 @@ fetch('quotes.json')
 notificationsEnabled = (localStorage.getItem('notify-sound') !== 'false');
 darkMode = (localStorage.getItem('color-theme') === 'dark');
 
-document.body.parentElement.setAttribute("data-bs-theme", darkMode ? 'dark' : 'light')
+updateTheme(darkMode ? 'dark' : 'light')
 
 setButtonIcon('notifications-toggle', notificationsEnabled ? 'bi-bell-fill' : 'bi-bell-slash-fill')
 setButtonIcon('theme-toggle', darkMode ? 'bi-sun-fill' : 'bi-moon-fill')
@@ -85,8 +94,7 @@ notificationsToggle.addEventListener('click', function() {
 
 themeToggle.addEventListener('click', () => {
     darkMode = !darkMode;
-    localStorage.setItem('color-theme', darkMode ? 'dark' : 'light');
-    document.body.parentElement.setAttribute("data-bs-theme", darkMode ? 'dark' : 'light')
+    updateTheme(darkMode ? 'dark' : 'light')
     setButtonIcon('theme-toggle', darkMode ? 'bi-sun-fill' : 'bi-moon-fill')
 });
 
@@ -96,15 +104,16 @@ msgInput.addEventListener("input", function() {
   currentFocus = -1;
   if (!value) return false;
 
-  const list = document.createElement("div");
-  list.setAttribute("class", "autocomplete-items");
-  this.parentNode.appendChild(list);
+  const list = document.createElement("ul");
+
+  list.setAttribute("class", "dropdown-menu");
+
+  this.parentNode.prepend(list);
 
   dataList.forEach(item => {
     if (item.toLowerCase().startsWith(value.toLowerCase())) {
-      const itemDiv = document.createElement("div");
-      itemDiv.innerHTML = "<strong>" + item.substr(0, value.length) + "</strong>" + item.substr(value.length);
-      itemDiv.classList.add("autocomplete-item");
+      const itemDiv = document.createElement("li");
+      itemDiv.innerHTML = `<button class="dropdown-item" type="button"><strong>${item.substr(0, value.length)}</strong>${item.substr(value.length)}</button>`;
       itemDiv.addEventListener("click", function() {
         input.value = item;
         closeAllLists();
@@ -112,6 +121,10 @@ msgInput.addEventListener("input", function() {
       list.appendChild(itemDiv);
     }
   });
+
+  if (list.children.length === 0) {
+    closeAllLists();
+  }
 });
 
 input.addEventListener("keydown", function(e) {
@@ -175,6 +188,7 @@ function setChat(chatId) {
   messages = gun.get('pr-inces-sbride-chat-' + chatId).get('messages');
   loadMessages();
   updateShareUrl(chatId);
+  document.getElementById("room-title").innerText = chatId;
   // update URL without reloading
   try { history.replaceState(null, '', '?chat=' + encodeURIComponent(chatId)); } catch (e) {}
 }
@@ -186,7 +200,7 @@ function removeActive(items) {
 }
 
 function closeAllLists() {
-  const items = document.getElementsByClassName("autocomplete-items");
+  const items = document.getElementsByClassName("dropdown-menu");
   for (let i = 0; i < items.length; i++) {
     items[i].parentNode.removeChild(items[i]);
   }
@@ -309,10 +323,17 @@ document.addEventListener("click", function(e) {
 function addChatToSelect(chat) {
   if (!chat) return;
   // avoid duplicate options
-  for (let i=0;i<chatSelect.options.length;i++) if (chatSelect.options[i].value===chat) return;
-  const opt = document.createElement('option');
-  opt.value = chat; opt.text = chat;
-  chatSelect.appendChild(opt);
+  for (let i = 0; i < roomSelect.children.length; i++) {
+    if (roomSelect.children[i].value === chat) return;
+  }
+  const opt = document.createElement('button');
+  opt.classList.add("btn", `btn-${darkMode ? 'dark' : 'light'}`)
+  opt.value = chat;
+  opt.innerText = chat;
+  opt.addEventListener("click", (e) => {
+    setChat(e.target.value);
+  })
+  roomSelect.appendChild(opt);
 }
 
 // populate chats from Gun
@@ -340,9 +361,25 @@ joinBtn.addEventListener('click', () => {
   setChat(chat);
 });
 
-chatSelect.addEventListener('change', () => {
-  const chat = chatSelect.value;
-  if (chat) setChat(chat);
+chatNameInput.addEventListener('input', e => {
+    const query = e.target.value.toLowerCase().trim();
+    const options = roomSelect.children;
+    let validOptions = 0;
+
+    for (const o of options) {
+        const room = o.value;
+
+        if (!room || !room.toLowerCase().includes(query)) {
+            o.classList.add('d-none');
+        } else {
+            o.classList.remove('d-none');
+            validOptions++;
+        }
+    }
+
+    if (validOptions === 0) {
+        joinBtn.classList.remove('d-none');
+    }
 });
 
 copyBtn.addEventListener('click', async () => {
