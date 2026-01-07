@@ -93,7 +93,7 @@ function getChatFromUrl() {
   } catch (e) { return 'mainlobby'; }
 }
 
-let currentChat = 'pr-inces-sbride-'+getChatFromUrl();
+let currentChat = getChatFromUrl();
 
 let old;
 
@@ -219,11 +219,11 @@ function updateShareUrl(chat) {
 // Switch to a chat: detach old listeners, attach to new messages node
 function setChat(chatId) {
   if (!chatId) chatId = 'mainlobby';
-  currentChat = 'pr-inces-sbride-'+chatId;
+  currentChat = chatId;
   if (messages) {
     try { messages.map().off(); } catch (e) {}
   }
-  messages = gun.get('chat-' + chatId).get('messages');
+  messages = gun.get('pr-inces-sbride-chat-' + chatId).get('messages');
   loadMessages();
   updateShareUrl(chatId);
   // update URL without reloading
