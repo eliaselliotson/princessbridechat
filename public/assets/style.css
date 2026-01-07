@@ -67,7 +67,7 @@ main {
     }
 
     .desktop-only {
-        display: initial !important;
+        display: flex !important;
     }
     
     #ad-1 {
