@@ -167,7 +167,7 @@ function addActive(items) {
   items[currentFocus].classList.add("autocomplete-active");
 }
 function scrollToLastMessage() {
-    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    document.querySelector('main').scrollTop = document.querySelector('main').scrollHeight;
 }
 
 
@@ -287,7 +287,7 @@ document.addEventListener("click", function(e) {
       }
       div.textContent = `[${time}] ${msg.user}: ${displayText}`;
       messagesDiv.appendChild(div);
-      messagesDiv.scrollTop = messagesDiv.scrollHeight;
+      scrollToLastMessage();
       lastMessage = msg;
       try {
         if (notificationsEnabled && msg.user && msg.user && old!==lastMessage && msg.user!==currentAlias) {
