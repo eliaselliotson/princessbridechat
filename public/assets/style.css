@@ -15,10 +15,15 @@ aside {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    max-height: 100vh;
 }
 
 aside p {
     margin-bottom: 0px;
+}
+
+header {
+    padding: 1em 5%;
 }
 
 main {
@@ -33,6 +38,29 @@ main {
     display: flex;
     flex-direction: column;
     gap: 3px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: calc(100vh - 10.5em);
+}
+
+#ad-2 {
+    display: none !important;
+}
+
+@media screen and (min-height: 720px) {
+    #rooms {
+        height: calc(60vh - 11.5em);
+    }
+
+    #ad-2 {
+        display: flex !important;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    #ad-1 {
+        display: none !important;
+    }
 }
 
 #rooms > button {
@@ -46,13 +74,14 @@ aside .input-group {
 
 #messages {
     padding: 0px 5%;
-    padding-top: 2em;
+    padding-top: 1em;
 }
 
 #input {
     height: 4.5em;
     width: 100%;
     padding: 1em 5%;
+    gap: 0.5em;
 }
 
 #input > .dropdown-menu {
