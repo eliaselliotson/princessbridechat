@@ -11,7 +11,7 @@ body {
 
 aside {
     padding: 1em;
-    width: 300px;
+    width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -57,9 +57,25 @@ main {
     }
 }
 
+.desktop-only {
+    display: none !important;
+}
+
 @media screen and (min-width: 960px) {
+    .mobile-only {
+        display: none !important;
+    }
+
+    .desktop-only {
+        display: initial !important;
+    }
+    
     #ad-1 {
         display: none !important;
+    }
+
+    aside {
+        width: 300px;
     }
 }
 
