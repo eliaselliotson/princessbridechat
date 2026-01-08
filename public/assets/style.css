@@ -43,20 +43,6 @@ main {
     height: calc(100vh - 10.5em);
 }
 
-#ad-2 {
-    display: none !important;
-}
-
-@media screen and (min-height: 720px) {
-    #rooms {
-        height: calc(60vh - 11.5em);
-    }
-
-    #ad-2 {
-        display: flex !important;
-    }
-}
-
 .desktop-only {
     display: none !important;
 }
@@ -68,10 +54,6 @@ main {
 
     .desktop-only {
         display: flex !important;
-    }
-    
-    #ad-1 {
-        display: none !important;
     }
 
     aside {

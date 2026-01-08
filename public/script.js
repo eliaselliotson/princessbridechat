@@ -8,11 +8,6 @@ document.getElementById("menu-opener").addEventListener("click", () => {
   }
 });
 
-if (typeof new URLSearchParams(window.location.search).get("adfree") === 'string') {
-  document.getElementById("ad-1").remove();
-  document.getElementById("ad-2").remove();
-}
-
 var audio = new Audio('./assets/notification.mp3');
 audio.volume = 0.6;
   // Attempt to unlock audio on first user interaction to satisfy autoplay policies
