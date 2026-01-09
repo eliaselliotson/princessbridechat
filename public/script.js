@@ -32,6 +32,7 @@ let currentChat = getChatFromUrl();
 let old;
 
 const loginModal = new bootstrap.Modal('#login-modal');
+const welcomeModal = new bootstrap.Modal('#welcome-modal');
 const loginOpener = document.getElementById('login-opener');
 const inputDiv = document.getElementById('input');
 const messagesDiv = document.getElementById('messages');
@@ -73,6 +74,8 @@ function updateTheme(theme) {
         e.classList.add(theme === 'dark' ? 'btn-dark' : 'btn-light');
     })
 }
+
+welcomeModal.show();
 
 fetch('quotes.json')
     .then(response => response.json())
